@@ -134,7 +134,4 @@ Create a Pull Request (PR)
 Your contributions make StudyNotion better! 🌟
 ----------------------------------------------
 
-## 📩 **Connect With Me**  
-🔗 **LinkedIn:** [Your Profile](https://www.linkedin.com/in/your-profile)  
-🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
+ 
