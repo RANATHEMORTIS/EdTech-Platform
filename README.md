@@ -133,9 +133,8 @@ Push to GitHub (git push origin feature-branch)
 Create a Pull Request (PR)
 Your contributions make StudyNotion better! 🌟
 ----------------------------------------------
+
 ## 📩 **Connect With Me**  
-🔗 **LinkedIn:** [Your Profile](https://www.linkedin.com/in/rana-roy-2a5b9a301/)  
+🔗 **LinkedIn:** [Your Profile](https://www.linkedin.com/in/your-profile)  
 🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
-📧 **Email:** [mail](mailto:ranaroy9228@gmail.com)  
-
-
+📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
