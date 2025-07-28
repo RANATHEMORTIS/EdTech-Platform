@@ -1,4 +1,4 @@
-# 📚 StudyNotion – The Future of Online Learning 🚀  
+# 📚 StudyNotion – The Future of Online Learning 🚀 
 
 [![StudyNotion](https://img.shields.io/badge/Live%20Project-View%20Now-brightgreen?style=for-the-badge)](https://studynotion-edtech-project.vercel.app/)  
 A **Next-Generation EdTech Platform** that brings students and instructors together for an interactive learning experience.  
